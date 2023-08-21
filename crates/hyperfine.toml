@@ -1,5 +1,0 @@
-[info]
-id = "hyperfine"
-git = "https://github.com/sharkdp/hyperfine"
-unsupported = []
-bins = ["hyperfine"]

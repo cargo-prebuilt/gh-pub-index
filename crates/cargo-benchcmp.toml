@@ -1,5 +1,0 @@
-[info]
-id = "cargo-benchcmp"
-git = "https://github.com/BurntSushi/cargo-benchcmp"
-unsupported = []
-bins = ["cargo-benchcmp"]

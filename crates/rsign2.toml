@@ -1,5 +1,0 @@
-[info]
-id = "rsign2"
-git = "https://github.com/jedisct1/rsign2"
-unsupported = []
-bins = ["rsign"]

@@ -1,5 +1,0 @@
-[info]
-id = "cargo-depgraph"
-git = "https://git.sr.ht/~jplatte/cargo-depgraph"
-unsupported = []
-bins = ["cargo-depgraph"]

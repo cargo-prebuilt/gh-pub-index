@@ -1,5 +1,0 @@
-[info]
-id = "cargo-modules"
-git = "https://github.com/regexident/cargo-modules"
-unsupported = []
-bins = ["cargo-modules"]

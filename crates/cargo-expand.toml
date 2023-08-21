@@ -1,5 +1,0 @@
-[info]
-id = "cargo-expand"
-git = "https://github.com/dtolnay/cargo-expand"
-unsupported = []
-bins = ["cargo-expand"]

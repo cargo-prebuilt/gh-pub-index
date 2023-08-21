@@ -1,5 +1,0 @@
-[info]
-id = "cargo-quickinstall"
-git = "https://github.com/cargo-bins/cargo-quickinstall"
-unsupported = []
-bins = ["cargo-quickinstall"]

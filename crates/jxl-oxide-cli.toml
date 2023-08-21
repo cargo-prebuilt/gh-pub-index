@@ -1,5 +1,0 @@
-[info]
-id = "jxl-oxide-cli"
-git = "https://github.com/tirr-c/jxl-oxide"
-unsupported = []
-bins = ["jxl-dec", "jxl-info"]

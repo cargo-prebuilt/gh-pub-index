@@ -1,5 +1,0 @@
-[info]
-id = "just"
-git = "https://github.com/casey/just"
-unsupported = []
-bins = ["just"]
